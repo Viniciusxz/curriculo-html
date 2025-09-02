@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Currículo - Vinícius Ribeiro Lins</title>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; color: #333;">
+    <div style="max-width: 900px; margin: auto; background: #fff; padding: 30px; border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.1);">
+
+        <header style="text-align: center; border-bottom: 2px solid #007acc; padding-bottom: 15px; margin-bottom: 25px;">
+            <h1 style="font-size: 2.2em; color: #007acc; margin: 0;">VINÍCIUS RIBEIRO LINS</h1>
+            <h2 style="font-weight: 400; font-size: 1.2em; margin: 5px 0 15px 0; color: #555;">Desenvolvedor Fullstack</h2>
+            <p style="font-size: 0.95em; color: #444;">Whatsapp: (12) 3456-7890 &nbsp;&nbsp; | &nbsp;&nbsp; Email: curriculo@html5.com</p>
+        </header>
+
+        <section style="margin-bottom: 30px;">
+            <h1 style="font-size: 1.5em; color: #007acc; margin-bottom: 10px; border-left: 5px solid #007acc; padding-left: 10px;">Objetivos</h1>
+            <p style="margin-bottom: 12px; text-align: justify;">Meu objetivo é aumentar a visibilidade da empresa e o alcance da marca, engajar
+            com o público e promover a fidelidade do cliente utilizando a comunicação efetiva, criatividade, conhecimento em gramática e ortografia, capacidade de trabalhar
+            com prazos e adaptabilidade a diferentes temas e audiências.</p>
+        </section>
+
+        <section style="margin-bottom: 30px;">
+            <h1 style="font-size: 1.5em; color: #007acc; margin-bottom: 10px; border-left: 5px solid #007acc; padding-left: 10px;">Formação</h1>
+            <h2 style="font-size: 1.2em; margin-bottom: 5px; color: #444;">2025-2027 | UNINASSAU</h2> 
+            <p style="margin-bottom: 12px;">Análise e Desenvolvimento de Sistemas</p>
+        </section>
+
+        <section style="margin-bottom: 30px;">
+            <h1 style="font-size: 1.5em; color: #007acc; margin-bottom: 10px; border-left: 5px solid #007acc; padding-left: 10px;">Experiências</h1>
+            <h2 style="font-size: 1.2em; margin-bottom: 5px; color: #444;">2028-2030 | Itaú Unibanco – São Paulo, SP</h2>
+            <h3 style="font-size: 1em; font-weight: bold; margin-bottom: 8px; color: #555;">Desenvolvedor Front-end</h3>
+            <ul style="list-style-type: disc; margin-left: 20px; color: #444;">
+                <li>Atuei no desenvolvimento e manutenção de aplicações web e APIs internas, utilizando tecnologias como Java, Spring Boot e Angular.</li>
+                <li>Participei de times ágeis (Scrum), contribuindo com entregas frequentes e colaborativas em squads multidisciplinares.</li>
+                <li>Colaborei na implementação de práticas de DevOps, incluindo CI/CD com Jenkins e testes automatizados.</li>
+                <li>Trabalhei com microsserviços, integrações via REST e mensageria (Kafka).</li>
+            </ul>
+        </section>
+
+        <section style="margin-bottom: 30px;">
+            <h1 style="font-size: 1.5em; color: #007acc; margin-bottom: 10px; border-left: 5px solid #007acc; padding-left: 10px;">Certificados</h1>
+            <ul style="list-style: none; padding: 0;">
+                <li style="background: #eef6ff; border-left: 5px solid #007acc; margin: 8px 0; padding: 10px; border-radius: 6px;">Certificado em HTML5, CSS e JavaScript Avançado (Alura)</li>
+                <li style="background: #eef6ff; border-left: 5px solid #007acc; margin: 8px 0; padding: 10px; border-radius: 6px;">Certificado em Banco de Dados (Coursera)</li>
+                <li style="background: #eef6ff; border-left: 5px solid #007acc; margin: 8px 0; padding: 10px; border-radius: 6px;">Certificado em Python Avançado (Alura)</li>
+            </ul>
+        </section>
+
+    </div>
+</body>
+</html>
